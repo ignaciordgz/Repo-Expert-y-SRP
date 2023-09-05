@@ -1,0 +1,11 @@
+C:\Users\nacho\Desktop\PII_Ejercicios_Expert_SRP-master\Ejercicio 2\src\Library\bin\Debug\net7.0\Library.deps.json
+C:\Users\nacho\Desktop\PII_Ejercicios_Expert_SRP-master\Ejercicio 2\src\Library\bin\Debug\net7.0\Library.dll
+C:\Users\nacho\Desktop\PII_Ejercicios_Expert_SRP-master\Ejercicio 2\src\Library\bin\Debug\net7.0\Library.pdb
+C:\Users\nacho\Desktop\PII_Ejercicios_Expert_SRP-master\Ejercicio 2\src\Library\obj\Debug\net7.0\Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nacho\Desktop\PII_Ejercicios_Expert_SRP-master\Ejercicio 2\src\Library\obj\Debug\net7.0\Library.AssemblyInfoInputs.cache
+C:\Users\nacho\Desktop\PII_Ejercicios_Expert_SRP-master\Ejercicio 2\src\Library\obj\Debug\net7.0\Library.AssemblyInfo.cs
+C:\Users\nacho\Desktop\PII_Ejercicios_Expert_SRP-master\Ejercicio 2\src\Library\obj\Debug\net7.0\Library.csproj.CoreCompileInputs.cache
+C:\Users\nacho\Desktop\PII_Ejercicios_Expert_SRP-master\Ejercicio 2\src\Library\obj\Debug\net7.0\Library.dll
+C:\Users\nacho\Desktop\PII_Ejercicios_Expert_SRP-master\Ejercicio 2\src\Library\obj\Debug\net7.0\refint\Library.dll
+C:\Users\nacho\Desktop\PII_Ejercicios_Expert_SRP-master\Ejercicio 2\src\Library\obj\Debug\net7.0\Library.pdb
+C:\Users\nacho\Desktop\PII_Ejercicios_Expert_SRP-master\Ejercicio 2\src\Library\obj\Debug\net7.0\ref\Library.dll
